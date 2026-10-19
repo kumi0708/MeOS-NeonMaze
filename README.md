@@ -2,6 +2,8 @@
 
 M5Stack Tab5のMeOS向けに作った、オリジナルの迷路チェイスゲームです。
 
+![NEON MAZEのゲーム画面](screenshot.png)
+
 ## 遊び方
 
 - 矢印キー／WASD: 移動
